@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: blog
 tags: blog
 title: Testing Netlify CMS
 date: 2021-06-17T14:09:53.395Z

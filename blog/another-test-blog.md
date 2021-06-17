@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: blog
 tags: blog
 title: Another Test Blog
 date: 2021-06-17T15:14:06.631Z

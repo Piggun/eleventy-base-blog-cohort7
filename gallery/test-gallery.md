@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: gallery
 tags: gallery
 title: Test Gallery
 date: 2021-06-17T15:23:52.971Z

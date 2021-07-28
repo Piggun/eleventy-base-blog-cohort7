@@ -20,15 +20,15 @@ eleventyNavigation:
         <div class="row">
             <div class="col-xl-6 mx-auto">
                 <div class="card my-card">
-                    <img class="card-img-top profile-pic mx-auto" src="/images/uploads/profile-pic.jpg" alt="Card image cap">
+                    <img class="card-img-top profile-pic mx-auto" src="/img/profile-pic.jpg" alt="Card image cap">
                         <div class="card-body">
                             <h5 class="card-title">Hi there,</h5>
                             <p class="card-text">
                                 I'm Riccardo Foti -  I currently work as a Sous Chef in Liverpool, UK.<br>Passionate about programming and gaming, I'm currently looking for a career change as a Front-end Developer.
                             </p>
                             <div class="logos">
-                                <a href="https://github.com/Piggun"><img class="logo-img" src="/images/uploads/GitHub-Mark-120px-plus.png"></a>
-                                <a href="https://www.linkedin.com/in/riccardo-foti/"><img class="logo-img" src="/images/uploads/LI-In-Bug.png"></a>
+                                <a href="https://github.com/Piggun"><img class="logo-img" src="/img/GitHub-Mark-120px-plus.png"></a>
+                                <a href="https://www.linkedin.com/in/riccardo-foti/"><img class="logo-img" src="/img/LI-In-Bug.png"></a>
                             </div>
                         </div>
                 </div>

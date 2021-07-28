@@ -48,6 +48,8 @@ main :first-child {
 header {
   border-bottom: 1px dashed var(--lightgray);
   background-color: salmon;
+  display: flex;
+  align-items: center;
 }
 header:after {
   content: "";

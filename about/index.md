@@ -16,7 +16,7 @@ eleventyNavigation:
 </head>
 <body>
     <div class="container my-container">
-            <h1 class="text-center">Riccardo Foti</h1>
+            <h1 class="text-center">About Me</h1>
         <div class="row">
             <div class="col-xl-6 mx-auto">
                 <div class="card my-card">

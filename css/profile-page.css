@@ -1,8 +1,12 @@
 header {
-    color: rgb(0,0,0,0.7);
-    padding: 20px;
+    display: flex;
+    align-items: center;
 }
 
+h1{
+    color: rgb(0,0,0,0.8);
+    padding: 10px;
+}
 
 .profile-pic {
     min-width: 100%;

@@ -46,7 +46,6 @@ main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--lightgray);
   background-color: salmon;
   display: flex;
   align-items: center;
@@ -167,7 +166,7 @@ code {
 
 .nav-item-active {
   font-weight: 700;
-  background-color:rgba(255, 255, 0, 0.8);
+  background-color:rgba(255, 255, 0, 0.7);
   border-radius: 10%;
 }
 
